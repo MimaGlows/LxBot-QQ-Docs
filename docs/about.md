@@ -1,37 +1,37 @@
-# 关于
+# About Page
 
 ---
 
-软糖酱（LxBot）是一款完全公益性质的功能型机器人。
+LxBot is a functional bot for the public good.
 
-## 联系我们
-QQ 群：**1151290186**
+## Contact Us
+QQ Group：**1151290186**
 
-Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
+Discord Server：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
 
-## 特别鸣谢
-> 排名不分先后。
+## Special Thanks
+> In no particular order.
 
-### Phigros / Orzmic 谱面定数测定组
-为 Phigros、Orzmic 模块提供曲目数据。
+### Phigros / Orzmic Chart Constant Measuring Team
+Provides song data for Phigros, Orzmic modules.
 
-成员：Crazy_Bull、SystemKr、Tomorrowgas、东城eastown、Nugget 等
+Members：Crazy_Bull,SystemKr,Tomorrowgas,东城eastown,Nugget,etc.
 
-### 个人（技术支持）
-- mi3ka：为 SDVX 模块提供 SDVX 4 曲目数据等支持。
-- chinosk：为 SDVX 模块提供 SDVX 5 曲目数据。
-- EdrowsLuo：为 osu!droid 模块提供相关接口。
-- 湖上の氷精：RABiBOT 联动相关。
+### Individuals (technical support)
+- mi3ka：Support for SDVX 4 song data etc. for SDVX modules.
+- chinosk：Support for SDVX 5 song data for SDVX modules.
+- EdrowsLuo：Provide the relevant interfaces for the osu!droid module.
+- 湖上の氷精：RABiBOT Linkage Related.
 
-### GitHub 项目
-软糖酱的发展离不开以下开源项目：
-- 协议支持：
+### GitHub Project
+LxBot could not have been developed without the following open source projects:
+- Protocol support：
   - [mamoe/mirai](https://github.com/mamoe/mirai)
   - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
-  - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）
-- Arcaea 模块查分：[TheSnowfield/BotArcAPI](https://github.com/TheSnowfield/BotArcAPI)
+  - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（Based on a modified version of kuriyama）
+- Arcaea Module Score Check：[TheSnowfield/BotArcAPI](https://github.com/TheSnowfield/BotArcAPI)
 
-与每位用户的支持。
+With the support of every user.
 
-## 赞助
-机器人的维护及运营需要费用，您可以通过[爱发电](https://afdian.net/@lxnssama)支持软糖酱的可持续运行。
+## Sponsoring
+There are costs associated with the maintenance and operation of the bot, and you can support the sustainable operation of LxBot by [爱发电](https://afdian.net/@lxnssama).
